@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "from A to Z (Re:arrange ver.)",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-13T12:46:13.496620Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "from A to Z (Re:arrange ver.)",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_from_A_to_Z_(Re_arrange_ver.)_AZKi.txt"
+    }
+  ]
+}
